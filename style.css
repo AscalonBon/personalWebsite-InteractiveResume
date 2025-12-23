@@ -1,5 +1,16 @@
-.global
+:root{
+    --primary-color: #6cbd37;
+    --secondary-color: #ffffff;
+    --font-family: 'Arial, sans-serif';
+}
 
-.header
+.global{
+    background-color: var(--secondary-color);
+    font-family: var(--font-family);
+    margin: 0;
+    padding: 0;
+}
 
-.footer
+ /* .header 
+
+.footer */
