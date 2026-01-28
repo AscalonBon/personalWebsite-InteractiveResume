@@ -325,11 +325,6 @@ body{
     }
 }
 
-/* Smooth scroll behavior */
-html {
-    scroll-behavior: smooth;
-}
-
 /* Reduce motion preference */
 @media (prefers-reduced-motion: reduce) {
     *,
